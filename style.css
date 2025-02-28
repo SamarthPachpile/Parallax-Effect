@@ -23,17 +23,17 @@ body {
 header {
   position: absolute;
   z-index: 999999;
-  padding: 0.9rem 0;
+  padding: 0.5rem 0;
   top: 0;
   left: 0;
   width: 100%;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  border-bottom: 1px solid rgba(72, 48, 48, 0.158);
 }
 
 header nav {
   max-width: 1400px;
   margin: 0 auto;
-  padding: 0 2rem;
+  padding: 3px 2rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -52,7 +52,7 @@ header ul {
 
 header ul a {
   text-decoration: none;
-  color: #803434;
+  color: #817272;
   padding: 0 1.5rem;
   text-transform: uppercase;
   font-weight: 300;
@@ -193,13 +193,13 @@ main {
 
 .text h2 {
   font-weight: 100;
-  font-size: 6.5rem;
+  font-size: 5.5rem;
   line-height: 0.88;
 }
 
 .text h1 {
   font-weight: 800;
-  font-size: 8rem;
+  font-size: 7rem;
   line-height: 0.88;
   width: 1100px;
 }
@@ -263,9 +263,9 @@ main {
 .mountain-2 {
   z-index: 15;
   position: absolute;
-  width: 690px;
+  width: 760px;
   top: calc(50% + 154px);
-  left: calc(50% + 462px);
+  left: calc(50% + 450px);
 }
 
 .mountain-1 {
