@@ -135,7 +135,7 @@ main {
 .mountain-10 {
   z-index: 3;
   position: absolute;
-  width: 892px;
+  width: 992px;
   top: calc(50% + 10px);
   left: calc(50% + 230px);
 }
@@ -245,7 +245,7 @@ main {
 }
 
 .mountain-3 {
-  z-index: 15;
+  z-index: 17;
   position: absolute;
   width: 464px;
   top: calc(50% + 196px);
@@ -261,7 +261,7 @@ main {
 }
 
 .mountain-2 {
-  z-index: 17;
+  z-index: 15;
   position: absolute;
   width: 690px;
   top: calc(50% + 154px);
@@ -273,7 +273,7 @@ main {
   position: absolute;
   width: 530px;
   top: calc(50% + 17px);
-  left: calc(50% - 601px);
+  left: calc(50% - 651px);
 }
 
 .sun-rays {
@@ -297,7 +297,7 @@ main {
 .fog-1 {
   z-index: 21;
   position: absolute;
-  width: 1600px;
+  width: 1750px;
   top: calc(100% - 355px);
   left: 50%;
 }
